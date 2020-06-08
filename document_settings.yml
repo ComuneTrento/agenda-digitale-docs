@@ -1,7 +1,10 @@
-﻿--- 
-document: 
-  name: "Prova Alex"
-  description: "Prova Alex "
-  tags: 
-    - Docs Italia
-    - template
+﻿---
+document:
+  name: Agenda Digitale 2020 - 2023
+  description: Documento approvato dalla Giunta Comunale di Trento relativo
+  all'agenda digitale 2020 - 2023
+  tags:
+    - Agenda Digitale
+    - Comune di Trento
+    - Agenda
+  authors: Comune di Trento
