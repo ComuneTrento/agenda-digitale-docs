@@ -5,7 +5,7 @@
 settings_project_name = "Agenda Digitale 2020 - 2023"
 settings_copyright_copyleft = "CC-BY 3.0"
 settings_editor_name = "Comune di Trento"
-settings_file_name = 'Agenda Digitale 20-23'
+settings_file_name = 'Agenda Digitale 2020-2023 del Comune di Trento'
 
 
 import sys
