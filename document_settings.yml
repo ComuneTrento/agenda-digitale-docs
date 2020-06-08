@@ -1,10 +1,9 @@
 ﻿---
 document:
-  name: Agenda Digitale 2020 - 2023
-  description: Documento approvato dalla Giunta Comunale di Trento relativo
-  all'agenda digitale 2020 - 2023
+  name: "Agenda Digitale 2020 - 2023"
+  description: "Documento approvato dalla Giunta Comunale di Trento relativo all'agenda digitale 2020 - 2023"
   tags:
-    - Agenda Digitale
-    - Comune di Trento
-    - Agenda
-  authors: Comune di Trento
+    - "Agenda Digitale"
+    - "Comune di Trento"
+    - "Agenda"
+  authors: "Comune di Trento"
